@@ -1,6 +1,6 @@
 #===========================
-#Coded by MrUser
-#Made in Madagascar
+#Coded by HANIF MARRI
+#Made in KOHLU
 #Please follow my github channel
 #I am not responsible for what you will do with this tools
 #===========================
